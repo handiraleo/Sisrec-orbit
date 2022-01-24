@@ -1,0 +1,841 @@
+Time_stamp,User_id,Id_wisata,Rating,Nama_wisata,Genre,Rating_total
+1/5/2022 20:45,Lala,1,1,pantai losari,alam,72
+1/5/2022 20:45,Lala,2,1,benteng rotterdam,prasejarah,68.2
+1/5/2022 20:45,Lala,3,1,malino,alam,70.8
+1/5/2022 20:45,Lala,4,1,taman nasional bantimurung,alam,73.4
+1/5/2022 20:45,Lala,5,1,pantai galesong,alam,69
+1/5/2022 20:45,Lala,6,1,wisata londa,budaya,71
+1/5/2022 20:45,Lala,7,1,museum ne'gandeng,budaya,75
+1/5/2022 20:45,Lala,8,1,tanjung bira,alam,77.4
+1/5/2022 20:45,Lala,9,1,masjid 99 kubah,religi,76.2
+1/5/2022 20:45,Lala,10,1,benteng somba opu,prasejarah,68.6
+1/5/2022 20:53,Afrian,1,1,pantai losari,alam,72
+1/5/2022 20:53,Afrian,2,2,benteng rotterdam,prasejarah,68.2
+1/5/2022 20:53,Afrian,3,1,malino,alam,70.8
+1/5/2022 20:53,Afrian,4,2,taman nasional bantimurung,alam,73.4
+1/5/2022 20:53,Afrian,5,2,pantai galesong,alam,69
+1/5/2022 20:53,Afrian,6,1,wisata londa,budaya,71
+1/5/2022 20:53,Afrian,7,1,museum ne'gandeng,budaya,75
+1/5/2022 20:53,Afrian,8,1,tanjung bira,alam,77.4
+1/5/2022 20:53,Afrian,9,1,masjid 99 kubah,religi,76.2
+1/5/2022 20:53,Afrian,10,1,benteng somba opu,prasejarah,68.6
+1/5/2022 20:53,Badril,1,1,pantai losari,alam,72
+1/5/2022 20:53,Badril,2,2,benteng rotterdam,prasejarah,68.2
+1/5/2022 20:53,Badril,3,2,malino,alam,70.8
+1/5/2022 20:53,Badril,4,2,taman nasional bantimurung,alam,73.4
+1/5/2022 20:53,Badril,5,2,pantai galesong,alam,69
+1/5/2022 20:53,Badril,6,2,wisata londa,budaya,71
+1/5/2022 20:53,Badril,7,1,museum ne'gandeng,budaya,75
+1/5/2022 20:53,Badril,8,1,tanjung bira,alam,77.4
+1/5/2022 20:53,Badril,9,2,masjid 99 kubah,religi,76.2
+1/5/2022 20:53,Badril,10,2,benteng somba opu,prasejarah,68.6
+1/5/2022 20:53,bocil,1,2,pantai losari,alam,72
+1/5/2022 20:53,bocil,2,2,benteng rotterdam,prasejarah,68.2
+1/5/2022 20:53,bocil,3,2,malino,alam,70.8
+1/5/2022 20:53,bocil,4,3,taman nasional bantimurung,alam,73.4
+1/5/2022 20:53,bocil,5,2,pantai galesong,alam,69
+1/5/2022 20:53,bocil,6,2,wisata londa,budaya,71
+1/5/2022 20:53,bocil,7,2,museum ne'gandeng,budaya,75
+1/5/2022 20:53,bocil,8,1,tanjung bira,alam,77.4
+1/5/2022 20:53,bocil,9,2,masjid 99 kubah,religi,76.2
+1/5/2022 20:53,bocil,10,2,benteng somba opu,prasejarah,68.6
+1/5/2022 20:57,Amanda Rozi Kurnia,1,2,pantai losari,alam,72
+1/5/2022 20:57,Amanda Rozi Kurnia,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 20:57,Amanda Rozi Kurnia,3,2,malino,alam,70.8
+1/5/2022 20:57,Amanda Rozi Kurnia,4,3,taman nasional bantimurung,alam,73.4
+1/5/2022 20:57,Amanda Rozi Kurnia,5,3,pantai galesong,alam,69
+1/5/2022 20:57,Amanda Rozi Kurnia,6,2,wisata londa,budaya,71
+1/5/2022 20:57,Amanda Rozi Kurnia,7,3,museum ne'gandeng,budaya,75
+1/5/2022 20:57,Amanda Rozi Kurnia,8,2,tanjung bira,alam,77.4
+1/5/2022 20:57,Amanda Rozi Kurnia,9,2,masjid 99 kubah,religi,76.2
+1/5/2022 20:57,Amanda Rozi Kurnia,10,2,benteng somba opu,prasejarah,68.6
+1/5/2022 20:57,semangat,1,2,pantai losari,alam,72
+1/5/2022 20:57,semangat,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 20:57,semangat,3,2,malino,alam,70.8
+1/5/2022 20:57,semangat,4,3,taman nasional bantimurung,alam,73.4
+1/5/2022 20:57,semangat,5,3,pantai galesong,alam,69
+1/5/2022 20:57,semangat,6,2,wisata londa,budaya,71
+1/5/2022 20:57,semangat,7,3,museum ne'gandeng,budaya,75
+1/5/2022 20:57,semangat,8,2,tanjung bira,alam,77.4
+1/5/2022 20:57,semangat,9,3,masjid 99 kubah,religi,76.2
+1/5/2022 20:57,semangat,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 20:59,DARUL,1,3,pantai losari,alam,72
+1/5/2022 20:59,DARUL,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 20:59,DARUL,3,2,malino,alam,70.8
+1/5/2022 20:59,DARUL,4,3,taman nasional bantimurung,alam,73.4
+1/5/2022 20:59,DARUL,5,3,pantai galesong,alam,69
+1/5/2022 20:59,DARUL,6,3,wisata londa,budaya,71
+1/5/2022 20:59,DARUL,7,3,museum ne'gandeng,budaya,75
+1/5/2022 20:59,DARUL,8,3,tanjung bira,alam,77.4
+1/5/2022 20:59,DARUL,9,3,masjid 99 kubah,religi,76.2
+1/5/2022 20:59,DARUL,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:00,Manda,1,3,pantai losari,alam,72
+1/5/2022 21:00,Manda,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:00,Manda,3,2,malino,alam,70.8
+1/5/2022 21:00,Manda,4,3,taman nasional bantimurung,alam,73.4
+1/5/2022 21:00,Manda,5,3,pantai galesong,alam,69
+1/5/2022 21:00,Manda,6,3,wisata londa,budaya,71
+1/5/2022 21:00,Manda,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:00,Manda,8,3,tanjung bira,alam,77.4
+1/5/2022 21:00,Manda,9,3,masjid 99 kubah,religi,76.2
+1/5/2022 21:00,Manda,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:03,Darma Ningsih ,1,3,pantai losari,alam,72
+1/5/2022 21:03,Darma Ningsih ,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:03,Darma Ningsih ,3,3,malino,alam,70.8
+1/5/2022 21:03,Darma Ningsih ,4,3,taman nasional bantimurung,alam,73.4
+1/5/2022 21:03,Darma Ningsih ,5,3,pantai galesong,alam,69
+1/5/2022 21:03,Darma Ningsih ,6,3,wisata londa,budaya,71
+1/5/2022 21:03,Darma Ningsih ,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:03,Darma Ningsih ,8,4,tanjung bira,alam,77.4
+1/5/2022 21:03,Darma Ningsih ,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:03,Darma Ningsih ,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:10,Vita Sangaaria,1,3,pantai losari,alam,72
+1/5/2022 21:10,Vita Sangaaria,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:10,Vita Sangaaria,3,3,malino,alam,70.8
+1/5/2022 21:10,Vita Sangaaria,4,3,taman nasional bantimurung,alam,73.4
+1/5/2022 21:10,Vita Sangaaria,5,3,pantai galesong,alam,69
+1/5/2022 21:10,Vita Sangaaria,6,3,wisata londa,budaya,71
+1/5/2022 21:10,Vita Sangaaria,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:10,Vita Sangaaria,8,4,tanjung bira,alam,77.4
+1/5/2022 21:10,Vita Sangaaria,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:10,Vita Sangaaria,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:10,Irmayanti,1,3,pantai losari,alam,72
+1/5/2022 21:10,Irmayanti,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:10,Irmayanti,3,3,malino,alam,70.8
+1/5/2022 21:10,Irmayanti,4,3,taman nasional bantimurung,alam,73.4
+1/5/2022 21:10,Irmayanti,5,3,pantai galesong,alam,69
+1/5/2022 21:10,Irmayanti,6,3,wisata londa,budaya,71
+1/5/2022 21:10,Irmayanti,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:10,Irmayanti,8,4,tanjung bira,alam,77.4
+1/5/2022 21:10,Irmayanti,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:10,Irmayanti,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:10,Z,1,3,pantai losari,alam,72
+1/5/2022 21:10,Z,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:10,Z,3,3,malino,alam,70.8
+1/5/2022 21:10,Z,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:10,Z,5,3,pantai galesong,alam,69
+1/5/2022 21:10,Z,6,3,wisata londa,budaya,71
+1/5/2022 21:10,Z,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:10,Z,8,4,tanjung bira,alam,77.4
+1/5/2022 21:10,Z,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:10,Z,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:10,Zul,1,3,pantai losari,alam,72
+1/5/2022 21:10,Zul,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:10,Zul,3,3,malino,alam,70.8
+1/5/2022 21:10,Zul,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:10,Zul,5,3,pantai galesong,alam,69
+1/5/2022 21:10,Zul,6,3,wisata londa,budaya,71
+1/5/2022 21:10,Zul,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:10,Zul,8,4,tanjung bira,alam,77.4
+1/5/2022 21:10,Zul,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:10,Zul,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:11,WA ODE HUSMAYANI,1,3,pantai losari,alam,72
+1/5/2022 21:11,WA ODE HUSMAYANI,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:11,WA ODE HUSMAYANI,3,3,malino,alam,70.8
+1/5/2022 21:11,WA ODE HUSMAYANI,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:11,WA ODE HUSMAYANI,5,3,pantai galesong,alam,69
+1/5/2022 21:11,WA ODE HUSMAYANI,6,3,wisata londa,budaya,71
+1/5/2022 21:11,WA ODE HUSMAYANI,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:11,WA ODE HUSMAYANI,8,4,tanjung bira,alam,77.4
+1/5/2022 21:11,WA ODE HUSMAYANI,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:11,WA ODE HUSMAYANI,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:12,Esy,1,4,pantai losari,alam,72
+1/5/2022 21:12,Esy,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:12,Esy,3,3,malino,alam,70.8
+1/5/2022 21:12,Esy,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:12,Esy,5,3,pantai galesong,alam,69
+1/5/2022 21:12,Esy,6,3,wisata londa,budaya,71
+1/5/2022 21:12,Esy,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:12,Esy,8,4,tanjung bira,alam,77.4
+1/5/2022 21:12,Esy,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:12,Esy,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:12,Iksal,1,4,pantai losari,alam,72
+1/5/2022 21:12,Iksal,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:12,Iksal,3,3,malino,alam,70.8
+1/5/2022 21:12,Iksal,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:12,Iksal,5,3,pantai galesong,alam,69
+1/5/2022 21:12,Iksal,6,3,wisata londa,budaya,71
+1/5/2022 21:12,Iksal,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:12,Iksal,8,4,tanjung bira,alam,77.4
+1/5/2022 21:12,Iksal,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:12,Iksal,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:13,Anda,1,4,pantai losari,alam,72
+1/5/2022 21:13,Anda,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:13,Anda,3,3,malino,alam,70.8
+1/5/2022 21:13,Anda,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:13,Anda,5,3,pantai galesong,alam,69
+1/5/2022 21:13,Anda,6,3,wisata londa,budaya,71
+1/5/2022 21:13,Anda,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:13,Anda,8,4,tanjung bira,alam,77.4
+1/5/2022 21:13,Anda,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:13,Anda,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:13,Jodohmu,1,4,pantai losari,alam,72
+1/5/2022 21:13,Jodohmu,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:13,Jodohmu,3,4,malino,alam,70.8
+1/5/2022 21:13,Jodohmu,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:13,Jodohmu,5,3,pantai galesong,alam,69
+1/5/2022 21:13,Jodohmu,6,4,wisata londa,budaya,71
+1/5/2022 21:13,Jodohmu,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:13,Jodohmu,8,4,tanjung bira,alam,77.4
+1/5/2022 21:13,Jodohmu,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:13,Jodohmu,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:16,Lisa Rahmawati ,1,4,pantai losari,alam,72
+1/5/2022 21:16,Lisa Rahmawati ,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:16,Lisa Rahmawati ,3,4,malino,alam,70.8
+1/5/2022 21:16,Lisa Rahmawati ,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:16,Lisa Rahmawati ,5,3,pantai galesong,alam,69
+1/5/2022 21:16,Lisa Rahmawati ,6,4,wisata londa,budaya,71
+1/5/2022 21:16,Lisa Rahmawati ,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:16,Lisa Rahmawati ,8,4,tanjung bira,alam,77.4
+1/5/2022 21:16,Lisa Rahmawati ,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:16,Lisa Rahmawati ,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:20,Didot,1,4,pantai losari,alam,72
+1/5/2022 21:20,Didot,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:20,Didot,3,4,malino,alam,70.8
+1/5/2022 21:20,Didot,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:20,Didot,5,3,pantai galesong,alam,69
+1/5/2022 21:20,Didot,6,4,wisata londa,budaya,71
+1/5/2022 21:20,Didot,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:20,Didot,8,4,tanjung bira,alam,77.4
+1/5/2022 21:20,Didot,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:20,Didot,10,3,benteng somba opu,prasejarah,68.6
+1/5/2022 21:31,Anna,1,4,pantai losari,alam,72
+1/5/2022 21:31,Anna,2,3,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:31,Anna,3,4,malino,alam,70.8
+1/5/2022 21:31,Anna,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:31,Anna,5,3,pantai galesong,alam,69
+1/5/2022 21:31,Anna,6,4,wisata londa,budaya,71
+1/5/2022 21:31,Anna,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:31,Anna,8,5,tanjung bira,alam,77.4
+1/5/2022 21:31,Anna,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:31,Anna,10,4,benteng somba opu,prasejarah,68.6
+1/5/2022 21:31,Risna,1,4,pantai losari,alam,72
+1/5/2022 21:31,Risna,2,4,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:31,Risna,3,4,malino,alam,70.8
+1/5/2022 21:31,Risna,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:31,Risna,5,3,pantai galesong,alam,69
+1/5/2022 21:31,Risna,6,4,wisata londa,budaya,71
+1/5/2022 21:31,Risna,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:31,Risna,8,5,tanjung bira,alam,77.4
+1/5/2022 21:31,Risna,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:31,Risna,10,4,benteng somba opu,prasejarah,68.6
+1/5/2022 21:42,Elio Ram Fahreza,1,4,pantai losari,alam,72
+1/5/2022 21:42,Elio Ram Fahreza,2,4,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:42,Elio Ram Fahreza,3,4,malino,alam,70.8
+1/5/2022 21:42,Elio Ram Fahreza,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:42,Elio Ram Fahreza,5,3,pantai galesong,alam,69
+1/5/2022 21:42,Elio Ram Fahreza,6,4,wisata londa,budaya,71
+1/5/2022 21:42,Elio Ram Fahreza,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:42,Elio Ram Fahreza,8,5,tanjung bira,alam,77.4
+1/5/2022 21:42,Elio Ram Fahreza,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:42,Elio Ram Fahreza,10,4,benteng somba opu,prasejarah,68.6
+1/5/2022 21:43,Rahman,1,4,pantai losari,alam,72
+1/5/2022 21:43,Rahman,2,4,benteng rotterdam,prasejarah,68.2
+1/5/2022 21:43,Rahman,3,4,malino,alam,70.8
+1/5/2022 21:43,Rahman,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 21:43,Rahman,5,3,pantai galesong,alam,69
+1/5/2022 21:43,Rahman,6,4,wisata londa,budaya,71
+1/5/2022 21:43,Rahman,7,4,museum ne'gandeng,budaya,75
+1/5/2022 21:43,Rahman,8,5,tanjung bira,alam,77.4
+1/5/2022 21:43,Rahman,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 21:43,Rahman,10,4,benteng somba opu,prasejarah,68.6
+1/5/2022 22:00,tifa,1,4,pantai losari,alam,72
+1/5/2022 22:00,tifa,2,4,benteng rotterdam,prasejarah,68.2
+1/5/2022 22:00,tifa,3,4,malino,alam,70.8
+1/5/2022 22:00,tifa,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 22:00,tifa,5,3,pantai galesong,alam,69
+1/5/2022 22:00,tifa,6,4,wisata londa,budaya,71
+1/5/2022 22:00,tifa,7,4,museum ne'gandeng,budaya,75
+1/5/2022 22:00,tifa,8,5,tanjung bira,alam,77.4
+1/5/2022 22:00,tifa,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 22:00,tifa,10,4,benteng somba opu,prasejarah,68.6
+1/5/2022 22:12,Zahra,1,4,pantai losari,alam,72
+1/5/2022 22:12,Zahra,2,4,benteng rotterdam,prasejarah,68.2
+1/5/2022 22:12,Zahra,3,4,malino,alam,70.8
+1/5/2022 22:12,Zahra,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 22:12,Zahra,5,4,pantai galesong,alam,69
+1/5/2022 22:12,Zahra,6,4,wisata londa,budaya,71
+1/5/2022 22:12,Zahra,7,4,museum ne'gandeng,budaya,75
+1/5/2022 22:12,Zahra,8,5,tanjung bira,alam,77.4
+1/5/2022 22:12,Zahra,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 22:12,Zahra,10,4,benteng somba opu,prasejarah,68.6
+1/5/2022 22:12,Appi,1,4,pantai losari,alam,72
+1/5/2022 22:12,Appi,2,4,benteng rotterdam,prasejarah,68.2
+1/5/2022 22:12,Appi,3,4,malino,alam,70.8
+1/5/2022 22:12,Appi,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 22:12,Appi,5,4,pantai galesong,alam,69
+1/5/2022 22:12,Appi,6,4,wisata londa,budaya,71
+1/5/2022 22:12,Appi,7,4,museum ne'gandeng,budaya,75
+1/5/2022 22:12,Appi,8,5,tanjung bira,alam,77.4
+1/5/2022 22:12,Appi,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 22:12,Appi,10,4,benteng somba opu,prasejarah,68.6
+1/5/2022 22:21,Dini,1,4,pantai losari,alam,72
+1/5/2022 22:21,Dini,2,4,benteng rotterdam,prasejarah,68.2
+1/5/2022 22:21,Dini,3,4,malino,alam,70.8
+1/5/2022 22:21,Dini,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 22:21,Dini,5,4,pantai galesong,alam,69
+1/5/2022 22:21,Dini,6,4,wisata londa,budaya,71
+1/5/2022 22:21,Dini,7,4,museum ne'gandeng,budaya,75
+1/5/2022 22:21,Dini,8,5,tanjung bira,alam,77.4
+1/5/2022 22:21,Dini,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 22:21,Dini,10,4,benteng somba opu,prasejarah,68.6
+1/5/2022 22:31,Bambang,1,4,pantai losari,alam,72
+1/5/2022 22:31,Bambang,2,4,benteng rotterdam,prasejarah,68.2
+1/5/2022 22:31,Bambang,3,4,malino,alam,70.8
+1/5/2022 22:31,Bambang,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 22:31,Bambang,5,4,pantai galesong,alam,69
+1/5/2022 22:31,Bambang,6,4,wisata londa,budaya,71
+1/5/2022 22:31,Bambang,7,4,museum ne'gandeng,budaya,75
+1/5/2022 22:31,Bambang,8,5,tanjung bira,alam,77.4
+1/5/2022 22:31,Bambang,9,4,masjid 99 kubah,religi,76.2
+1/5/2022 22:31,Bambang,10,4,benteng somba opu,prasejarah,68.6
+1/5/2022 22:50,Hamba Allah,1,4,pantai losari,alam,72
+1/5/2022 22:50,Hamba Allah,2,4,benteng rotterdam,prasejarah,68.2
+1/5/2022 22:50,Hamba Allah,3,4,malino,alam,70.8
+1/5/2022 22:50,Hamba Allah,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 22:50,Hamba Allah,5,4,pantai galesong,alam,69
+1/5/2022 22:50,Hamba Allah,6,4,wisata londa,budaya,71
+1/5/2022 22:50,Hamba Allah,7,4,museum ne'gandeng,budaya,75
+1/5/2022 22:50,Hamba Allah,8,5,tanjung bira,alam,77.4
+1/5/2022 22:50,Hamba Allah,9,5,masjid 99 kubah,religi,76.2
+1/5/2022 22:50,Hamba Allah,10,4,benteng somba opu,prasejarah,68.6
+1/5/2022 23:14,GOZAL,1,4,pantai losari,alam,72
+1/5/2022 23:14,GOZAL,2,4,benteng rotterdam,prasejarah,68.2
+1/5/2022 23:14,GOZAL,3,4,malino,alam,70.8
+1/5/2022 23:14,GOZAL,4,4,taman nasional bantimurung,alam,73.4
+1/5/2022 23:14,GOZAL,5,4,pantai galesong,alam,69
+1/5/2022 23:14,GOZAL,6,4,wisata londa,budaya,71
+1/5/2022 23:14,GOZAL,7,4,museum ne'gandeng,budaya,75
+1/5/2022 23:14,GOZAL,8,5,tanjung bira,alam,77.4
+1/5/2022 23:14,GOZAL,9,5,masjid 99 kubah,religi,76.2
+1/5/2022 23:14,GOZAL,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 4:37,Lita,1,4,pantai losari,alam,72
+1/6/2022 4:37,Lita,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 4:37,Lita,3,4,malino,alam,70.8
+1/6/2022 4:37,Lita,4,4,taman nasional bantimurung,alam,73.4
+1/6/2022 4:37,Lita,5,4,pantai galesong,alam,69
+1/6/2022 4:37,Lita,6,4,wisata londa,budaya,71
+1/6/2022 4:37,Lita,7,4,museum ne'gandeng,budaya,75
+1/6/2022 4:37,Lita,8,5,tanjung bira,alam,77.4
+1/6/2022 4:37,Lita,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 4:37,Lita,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 5:02,Salma,1,4,pantai losari,alam,72
+1/6/2022 5:02,Salma,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 5:02,Salma,3,4,malino,alam,70.8
+1/6/2022 5:02,Salma,4,4,taman nasional bantimurung,alam,73.4
+1/6/2022 5:02,Salma,5,4,pantai galesong,alam,69
+1/6/2022 5:02,Salma,6,4,wisata londa,budaya,71
+1/6/2022 5:02,Salma,7,4,museum ne'gandeng,budaya,75
+1/6/2022 5:02,Salma,8,5,tanjung bira,alam,77.4
+1/6/2022 5:02,Salma,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 5:02,Salma,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 5:46,Tika,1,4,pantai losari,alam,72
+1/6/2022 5:46,Tika,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 5:46,Tika,3,4,malino,alam,70.8
+1/6/2022 5:46,Tika,4,4,taman nasional bantimurung,alam,73.4
+1/6/2022 5:46,Tika,5,4,pantai galesong,alam,69
+1/6/2022 5:46,Tika,6,4,wisata londa,budaya,71
+1/6/2022 5:46,Tika,7,4,museum ne'gandeng,budaya,75
+1/6/2022 5:46,Tika,8,5,tanjung bira,alam,77.4
+1/6/2022 5:46,Tika,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 5:46,Tika,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 5:48,saccharo,1,4,pantai losari,alam,72
+1/6/2022 5:48,saccharo,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 5:48,saccharo,3,4,malino,alam,70.8
+1/6/2022 5:48,saccharo,4,4,taman nasional bantimurung,alam,73.4
+1/6/2022 5:48,saccharo,5,4,pantai galesong,alam,69
+1/6/2022 5:48,saccharo,6,4,wisata londa,budaya,71
+1/6/2022 5:48,saccharo,7,4,museum ne'gandeng,budaya,75
+1/6/2022 5:48,saccharo,8,5,tanjung bira,alam,77.4
+1/6/2022 5:48,saccharo,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 5:48,saccharo,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 6:00,Riska,1,4,pantai losari,alam,72
+1/6/2022 6:00,Riska,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 6:00,Riska,3,4,malino,alam,70.8
+1/6/2022 6:00,Riska,4,4,taman nasional bantimurung,alam,73.4
+1/6/2022 6:00,Riska,5,4,pantai galesong,alam,69
+1/6/2022 6:00,Riska,6,4,wisata londa,budaya,71
+1/6/2022 6:00,Riska,7,4,museum ne'gandeng,budaya,75
+1/6/2022 6:00,Riska,8,5,tanjung bira,alam,77.4
+1/6/2022 6:00,Riska,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 6:00,Riska,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 6:01,Firda,1,4,pantai losari,alam,72
+1/6/2022 6:01,Firda,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 6:01,Firda,3,4,malino,alam,70.8
+1/6/2022 6:01,Firda,4,4,taman nasional bantimurung,alam,73.4
+1/6/2022 6:01,Firda,5,4,pantai galesong,alam,69
+1/6/2022 6:01,Firda,6,4,wisata londa,budaya,71
+1/6/2022 6:01,Firda,7,5,museum ne'gandeng,budaya,75
+1/6/2022 6:01,Firda,8,5,tanjung bira,alam,77.4
+1/6/2022 6:01,Firda,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 6:01,Firda,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 6:10,Rain,1,4,pantai losari,alam,72
+1/6/2022 6:10,Rain,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 6:10,Rain,3,4,malino,alam,70.8
+1/6/2022 6:10,Rain,4,4,taman nasional bantimurung,alam,73.4
+1/6/2022 6:10,Rain,5,4,pantai galesong,alam,69
+1/6/2022 6:10,Rain,6,4,wisata londa,budaya,71
+1/6/2022 6:10,Rain,7,5,museum ne'gandeng,budaya,75
+1/6/2022 6:10,Rain,8,5,tanjung bira,alam,77.4
+1/6/2022 6:10,Rain,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 6:10,Rain,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 6:11,Rachel,1,4,pantai losari,alam,72
+1/6/2022 6:11,Rachel,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 6:11,Rachel,3,4,malino,alam,70.8
+1/6/2022 6:11,Rachel,4,4,taman nasional bantimurung,alam,73.4
+1/6/2022 6:11,Rachel,5,4,pantai galesong,alam,69
+1/6/2022 6:11,Rachel,6,4,wisata londa,budaya,71
+1/6/2022 6:11,Rachel,7,5,museum ne'gandeng,budaya,75
+1/6/2022 6:11,Rachel,8,5,tanjung bira,alam,77.4
+1/6/2022 6:11,Rachel,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 6:11,Rachel,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 6:55,Nana,1,4,pantai losari,alam,72
+1/6/2022 6:55,Nana,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 6:55,Nana,3,4,malino,alam,70.8
+1/6/2022 6:55,Nana,4,4,taman nasional bantimurung,alam,73.4
+1/6/2022 6:55,Nana,5,4,pantai galesong,alam,69
+1/6/2022 6:55,Nana,6,4,wisata londa,budaya,71
+1/6/2022 6:55,Nana,7,5,museum ne'gandeng,budaya,75
+1/6/2022 6:55,Nana,8,5,tanjung bira,alam,77.4
+1/6/2022 6:55,Nana,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 6:55,Nana,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 7:02,Ucul,1,4,pantai losari,alam,72
+1/6/2022 7:02,Ucul,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 7:02,Ucul,3,4,malino,alam,70.8
+1/6/2022 7:02,Ucul,4,4,taman nasional bantimurung,alam,73.4
+1/6/2022 7:02,Ucul,5,4,pantai galesong,alam,69
+1/6/2022 7:02,Ucul,6,4,wisata londa,budaya,71
+1/6/2022 7:02,Ucul,7,5,museum ne'gandeng,budaya,75
+1/6/2022 7:02,Ucul,8,5,tanjung bira,alam,77.4
+1/6/2022 7:02,Ucul,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 7:02,Ucul,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 7:04,Sukma,1,4,pantai losari,alam,72
+1/6/2022 7:04,Sukma,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 7:04,Sukma,3,4,malino,alam,70.8
+1/6/2022 7:04,Sukma,4,4,taman nasional bantimurung,alam,73.4
+1/6/2022 7:04,Sukma,5,4,pantai galesong,alam,69
+1/6/2022 7:04,Sukma,6,4,wisata londa,budaya,71
+1/6/2022 7:04,Sukma,7,5,museum ne'gandeng,budaya,75
+1/6/2022 7:04,Sukma,8,5,tanjung bira,alam,77.4
+1/6/2022 7:04,Sukma,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 7:04,Sukma,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 7:15,La Ode Arjen,1,5,pantai losari,alam,72
+1/6/2022 7:15,La Ode Arjen,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 7:15,La Ode Arjen,3,4,malino,alam,70.8
+1/6/2022 7:15,La Ode Arjen,4,4,taman nasional bantimurung,alam,73.4
+1/6/2022 7:15,La Ode Arjen,5,4,pantai galesong,alam,69
+1/6/2022 7:15,La Ode Arjen,6,4,wisata londa,budaya,71
+1/6/2022 7:15,La Ode Arjen,7,5,museum ne'gandeng,budaya,75
+1/6/2022 7:15,La Ode Arjen,8,5,tanjung bira,alam,77.4
+1/6/2022 7:15,La Ode Arjen,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 7:15,La Ode Arjen,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 7:45,Lailatul Fitri,1,5,pantai losari,alam,72
+1/6/2022 7:45,Lailatul Fitri,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 7:45,Lailatul Fitri,3,4,malino,alam,70.8
+1/6/2022 7:45,Lailatul Fitri,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 7:45,Lailatul Fitri,5,4,pantai galesong,alam,69
+1/6/2022 7:45,Lailatul Fitri,6,4,wisata londa,budaya,71
+1/6/2022 7:45,Lailatul Fitri,7,5,museum ne'gandeng,budaya,75
+1/6/2022 7:45,Lailatul Fitri,8,5,tanjung bira,alam,77.4
+1/6/2022 7:45,Lailatul Fitri,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 7:45,Lailatul Fitri,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 10:34,F,1,5,pantai losari,alam,72
+1/6/2022 10:34,F,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 10:34,F,3,5,malino,alam,70.8
+1/6/2022 10:34,F,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 10:34,F,5,4,pantai galesong,alam,69
+1/6/2022 10:34,F,6,4,wisata londa,budaya,71
+1/6/2022 10:34,F,7,5,museum ne'gandeng,budaya,75
+1/6/2022 10:34,F,8,5,tanjung bira,alam,77.4
+1/6/2022 10:34,F,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 10:34,F,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 10:34,A,1,5,pantai losari,alam,72
+1/6/2022 10:34,A,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 10:34,A,3,5,malino,alam,70.8
+1/6/2022 10:34,A,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 10:34,A,5,4,pantai galesong,alam,69
+1/6/2022 10:34,A,6,5,wisata londa,budaya,71
+1/6/2022 10:34,A,7,5,museum ne'gandeng,budaya,75
+1/6/2022 10:34,A,8,5,tanjung bira,alam,77.4
+1/6/2022 10:34,A,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 10:34,A,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 10:38,G,1,5,pantai losari,alam,72
+1/6/2022 10:38,G,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 10:38,G,3,5,malino,alam,70.8
+1/6/2022 10:38,G,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 10:38,G,5,4,pantai galesong,alam,69
+1/6/2022 10:38,G,6,5,wisata londa,budaya,71
+1/6/2022 10:38,G,7,5,museum ne'gandeng,budaya,75
+1/6/2022 10:38,G,8,5,tanjung bira,alam,77.4
+1/6/2022 10:38,G,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 10:38,G,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 10:39,R,1,5,pantai losari,alam,72
+1/6/2022 10:39,R,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 10:39,R,3,5,malino,alam,70.8
+1/6/2022 10:39,R,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 10:39,R,5,4,pantai galesong,alam,69
+1/6/2022 10:39,R,6,5,wisata londa,budaya,71
+1/6/2022 10:39,R,7,5,museum ne'gandeng,budaya,75
+1/6/2022 10:39,R,8,5,tanjung bira,alam,77.4
+1/6/2022 10:39,R,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 10:39,R,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 11:00,Risna ,1,5,pantai losari,alam,72
+1/6/2022 11:00,Risna ,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 11:00,Risna ,3,5,malino,alam,70.8
+1/6/2022 11:00,Risna ,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 11:00,Risna ,5,4,pantai galesong,alam,69
+1/6/2022 11:00,Risna ,6,5,wisata londa,budaya,71
+1/6/2022 11:00,Risna ,7,5,museum ne'gandeng,budaya,75
+1/6/2022 11:00,Risna ,8,5,tanjung bira,alam,77.4
+1/6/2022 11:00,Risna ,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 11:00,Risna ,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 11:47,Hera cantique,1,5,pantai losari,alam,72
+1/6/2022 11:47,Hera cantique,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 11:47,Hera cantique,3,5,malino,alam,70.8
+1/6/2022 11:47,Hera cantique,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 11:47,Hera cantique,5,4,pantai galesong,alam,69
+1/6/2022 11:47,Hera cantique,6,5,wisata londa,budaya,71
+1/6/2022 11:47,Hera cantique,7,5,museum ne'gandeng,budaya,75
+1/6/2022 11:47,Hera cantique,8,5,tanjung bira,alam,77.4
+1/6/2022 11:47,Hera cantique,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 11:47,Hera cantique,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 13:44,Vanessa,1,5,pantai losari,alam,72
+1/6/2022 13:44,Vanessa,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 13:44,Vanessa,3,5,malino,alam,70.8
+1/6/2022 13:44,Vanessa,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 13:44,Vanessa,5,5,pantai galesong,alam,69
+1/6/2022 13:44,Vanessa,6,5,wisata londa,budaya,71
+1/6/2022 13:44,Vanessa,7,5,museum ne'gandeng,budaya,75
+1/6/2022 13:44,Vanessa,8,5,tanjung bira,alam,77.4
+1/6/2022 13:44,Vanessa,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 13:44,Vanessa,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 14:19,self,1,5,pantai losari,alam,72
+1/6/2022 14:19,self,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:19,self,3,5,malino,alam,70.8
+1/6/2022 14:19,self,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:19,self,5,5,pantai galesong,alam,69
+1/6/2022 14:19,self,6,5,wisata londa,budaya,71
+1/6/2022 14:19,self,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:19,self,8,5,tanjung bira,alam,77.4
+1/6/2022 14:19,self,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:19,self,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 14:19,Lalisa Manoban,1,5,pantai losari,alam,72
+1/6/2022 14:19,Lalisa Manoban,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:19,Lalisa Manoban,3,5,malino,alam,70.8
+1/6/2022 14:19,Lalisa Manoban,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:19,Lalisa Manoban,5,5,pantai galesong,alam,69
+1/6/2022 14:19,Lalisa Manoban,6,5,wisata londa,budaya,71
+1/6/2022 14:19,Lalisa Manoban,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:19,Lalisa Manoban,8,5,tanjung bira,alam,77.4
+1/6/2022 14:19,Lalisa Manoban,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:19,Lalisa Manoban,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 14:20,rican,1,5,pantai losari,alam,72
+1/6/2022 14:20,rican,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:20,rican,3,5,malino,alam,70.8
+1/6/2022 14:20,rican,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:20,rican,5,5,pantai galesong,alam,69
+1/6/2022 14:20,rican,6,5,wisata londa,budaya,71
+1/6/2022 14:20,rican,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:20,rican,8,5,tanjung bira,alam,77.4
+1/6/2022 14:20,rican,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:20,rican,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 14:20,Nurul,1,5,pantai losari,alam,72
+1/6/2022 14:20,Nurul,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:20,Nurul,3,5,malino,alam,70.8
+1/6/2022 14:20,Nurul,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:20,Nurul,5,5,pantai galesong,alam,69
+1/6/2022 14:20,Nurul,6,5,wisata londa,budaya,71
+1/6/2022 14:20,Nurul,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:20,Nurul,8,5,tanjung bira,alam,77.4
+1/6/2022 14:20,Nurul,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:20,Nurul,10,4,benteng somba opu,prasejarah,68.6
+1/6/2022 14:22,Halland,1,5,pantai losari,alam,72
+1/6/2022 14:22,Halland,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:22,Halland,3,5,malino,alam,70.8
+1/6/2022 14:22,Halland,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:22,Halland,5,5,pantai galesong,alam,69
+1/6/2022 14:22,Halland,6,5,wisata londa,budaya,71
+1/6/2022 14:22,Halland,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:22,Halland,8,5,tanjung bira,alam,77.4
+1/6/2022 14:22,Halland,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:22,Halland,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 14:23,Tri,1,5,pantai losari,alam,72
+1/6/2022 14:23,Tri,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:23,Tri,3,5,malino,alam,70.8
+1/6/2022 14:23,Tri,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:23,Tri,5,5,pantai galesong,alam,69
+1/6/2022 14:23,Tri,6,5,wisata londa,budaya,71
+1/6/2022 14:23,Tri,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:23,Tri,8,5,tanjung bira,alam,77.4
+1/6/2022 14:23,Tri,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:23,Tri,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 14:23,Benzema,1,5,pantai losari,alam,72
+1/6/2022 14:23,Benzema,2,4,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:23,Benzema,3,5,malino,alam,70.8
+1/6/2022 14:23,Benzema,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:23,Benzema,5,5,pantai galesong,alam,69
+1/6/2022 14:23,Benzema,6,5,wisata londa,budaya,71
+1/6/2022 14:23,Benzema,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:23,Benzema,8,5,tanjung bira,alam,77.4
+1/6/2022 14:23,Benzema,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:23,Benzema,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 14:24,Lidya,1,5,pantai losari,alam,72
+1/6/2022 14:24,Lidya,2,5,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:24,Lidya,3,5,malino,alam,70.8
+1/6/2022 14:24,Lidya,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:24,Lidya,5,5,pantai galesong,alam,69
+1/6/2022 14:24,Lidya,6,5,wisata londa,budaya,71
+1/6/2022 14:24,Lidya,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:24,Lidya,8,5,tanjung bira,alam,77.4
+1/6/2022 14:24,Lidya,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:24,Lidya,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 14:27,Incess,1,5,pantai losari,alam,72
+1/6/2022 14:27,Incess,2,5,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:27,Incess,3,5,malino,alam,70.8
+1/6/2022 14:27,Incess,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:27,Incess,5,5,pantai galesong,alam,69
+1/6/2022 14:27,Incess,6,5,wisata londa,budaya,71
+1/6/2022 14:27,Incess,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:27,Incess,8,5,tanjung bira,alam,77.4
+1/6/2022 14:27,Incess,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:27,Incess,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 14:31,Fidaa,1,5,pantai losari,alam,72
+1/6/2022 14:31,Fidaa,2,5,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:31,Fidaa,3,5,malino,alam,70.8
+1/6/2022 14:31,Fidaa,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:31,Fidaa,5,5,pantai galesong,alam,69
+1/6/2022 14:31,Fidaa,6,5,wisata londa,budaya,71
+1/6/2022 14:31,Fidaa,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:31,Fidaa,8,5,tanjung bira,alam,77.4
+1/6/2022 14:31,Fidaa,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:31,Fidaa,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 14:32,Saleh,1,5,pantai losari,alam,72
+1/6/2022 14:32,Saleh,2,5,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:32,Saleh,3,5,malino,alam,70.8
+1/6/2022 14:32,Saleh,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:32,Saleh,5,5,pantai galesong,alam,69
+1/6/2022 14:32,Saleh,6,5,wisata londa,budaya,71
+1/6/2022 14:32,Saleh,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:32,Saleh,8,5,tanjung bira,alam,77.4
+1/6/2022 14:32,Saleh,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:32,Saleh,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 14:35,Fajar,1,5,pantai losari,alam,72
+1/6/2022 14:35,Fajar,2,5,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:35,Fajar,3,5,malino,alam,70.8
+1/6/2022 14:35,Fajar,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:35,Fajar,5,5,pantai galesong,alam,69
+1/6/2022 14:35,Fajar,6,5,wisata londa,budaya,71
+1/6/2022 14:35,Fajar,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:35,Fajar,8,5,tanjung bira,alam,77.4
+1/6/2022 14:35,Fajar,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:35,Fajar,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 14:36,Nadir,1,5,pantai losari,alam,72
+1/6/2022 14:36,Nadir,2,5,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:36,Nadir,3,5,malino,alam,70.8
+1/6/2022 14:36,Nadir,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:36,Nadir,5,5,pantai galesong,alam,69
+1/6/2022 14:36,Nadir,6,5,wisata londa,budaya,71
+1/6/2022 14:36,Nadir,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:36,Nadir,8,5,tanjung bira,alam,77.4
+1/6/2022 14:36,Nadir,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:36,Nadir,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 14:36,Israk,1,5,pantai losari,alam,72
+1/6/2022 14:36,Israk,2,5,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:36,Israk,3,5,malino,alam,70.8
+1/6/2022 14:36,Israk,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:36,Israk,5,5,pantai galesong,alam,69
+1/6/2022 14:36,Israk,6,5,wisata londa,budaya,71
+1/6/2022 14:36,Israk,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:36,Israk,8,5,tanjung bira,alam,77.4
+1/6/2022 14:36,Israk,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:36,Israk,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 14:37,Rahma,1,5,pantai losari,alam,72
+1/6/2022 14:37,Rahma,2,5,benteng rotterdam,prasejarah,68.2
+1/6/2022 14:37,Rahma,3,5,malino,alam,70.8
+1/6/2022 14:37,Rahma,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 14:37,Rahma,5,5,pantai galesong,alam,69
+1/6/2022 14:37,Rahma,6,5,wisata londa,budaya,71
+1/6/2022 14:37,Rahma,7,5,museum ne'gandeng,budaya,75
+1/6/2022 14:37,Rahma,8,5,tanjung bira,alam,77.4
+1/6/2022 14:37,Rahma,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 14:37,Rahma,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 16:44,Joy,1,5,pantai losari,alam,72
+1/6/2022 16:44,Joy,2,5,benteng rotterdam,prasejarah,68.2
+1/6/2022 16:44,Joy,3,5,malino,alam,70.8
+1/6/2022 16:44,Joy,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 16:44,Joy,5,5,pantai galesong,alam,69
+1/6/2022 16:44,Joy,6,5,wisata londa,budaya,71
+1/6/2022 16:44,Joy,7,5,museum ne'gandeng,budaya,75
+1/6/2022 16:44,Joy,8,5,tanjung bira,alam,77.4
+1/6/2022 16:44,Joy,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 16:44,Joy,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 19:16,Arsar,1,5,pantai losari,alam,72
+1/6/2022 19:16,Arsar,2,5,benteng rotterdam,prasejarah,68.2
+1/6/2022 19:16,Arsar,3,5,malino,alam,70.8
+1/6/2022 19:16,Arsar,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 19:16,Arsar,5,5,pantai galesong,alam,69
+1/6/2022 19:16,Arsar,6,5,wisata londa,budaya,71
+1/6/2022 19:16,Arsar,7,5,museum ne'gandeng,budaya,75
+1/6/2022 19:16,Arsar,8,5,tanjung bira,alam,77.4
+1/6/2022 19:16,Arsar,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 19:16,Arsar,10,5,benteng somba opu,prasejarah,68.6
+1/6/2022 19:32,Hasan,1,5,pantai losari,alam,72
+1/6/2022 19:32,Hasan,2,5,benteng rotterdam,prasejarah,68.2
+1/6/2022 19:32,Hasan,3,5,malino,alam,70.8
+1/6/2022 19:32,Hasan,4,5,taman nasional bantimurung,alam,73.4
+1/6/2022 19:32,Hasan,5,5,pantai galesong,alam,69
+1/6/2022 19:32,Hasan,6,5,wisata londa,budaya,71
+1/6/2022 19:32,Hasan,7,5,museum ne'gandeng,budaya,75
+1/6/2022 19:32,Hasan,8,5,tanjung bira,alam,77.4
+1/6/2022 19:32,Hasan,9,5,masjid 99 kubah,religi,76.2
+1/6/2022 19:32,Hasan,10,5,benteng somba opu,prasejarah,68.6
+1/7/2022 9:00,Liaaa,1,5,pantai losari,alam,72
+1/7/2022 9:00,Liaaa,2,5,benteng rotterdam,prasejarah,68.2
+1/7/2022 9:00,Liaaa,3,5,malino,alam,70.8
+1/7/2022 9:00,Liaaa,4,5,taman nasional bantimurung,alam,73.4
+1/7/2022 9:00,Liaaa,5,5,pantai galesong,alam,69
+1/7/2022 9:00,Liaaa,6,5,wisata londa,budaya,71
+1/7/2022 9:00,Liaaa,7,5,museum ne'gandeng,budaya,75
+1/7/2022 9:00,Liaaa,8,5,tanjung bira,alam,77.4
+1/7/2022 9:00,Liaaa,9,5,masjid 99 kubah,religi,76.2
+1/7/2022 9:00,Liaaa,10,5,benteng somba opu,prasejarah,68.6
+1/7/2022 9:45,Fritz,1,5,pantai losari,alam,72
+1/7/2022 9:45,Fritz,2,5,benteng rotterdam,prasejarah,68.2
+1/7/2022 9:45,Fritz,3,5,malino,alam,70.8
+1/7/2022 9:45,Fritz,4,5,taman nasional bantimurung,alam,73.4
+1/7/2022 9:45,Fritz,5,5,pantai galesong,alam,69
+1/7/2022 9:45,Fritz,6,5,wisata londa,budaya,71
+1/7/2022 9:45,Fritz,7,5,museum ne'gandeng,budaya,75
+1/7/2022 9:45,Fritz,8,5,tanjung bira,alam,77.4
+1/7/2022 9:45,Fritz,9,5,masjid 99 kubah,religi,76.2
+1/7/2022 9:45,Fritz,10,5,benteng somba opu,prasejarah,68.6
+1/7/2022 13:39,Shelly,1,5,pantai losari,alam,72
+1/7/2022 13:39,Shelly,2,5,benteng rotterdam,prasejarah,68.2
+1/7/2022 13:39,Shelly,3,5,malino,alam,70.8
+1/7/2022 13:39,Shelly,4,5,taman nasional bantimurung,alam,73.4
+1/7/2022 13:39,Shelly,5,5,pantai galesong,alam,69
+1/7/2022 13:39,Shelly,6,5,wisata londa,budaya,71
+1/7/2022 13:39,Shelly,7,5,museum ne'gandeng,budaya,75
+1/7/2022 13:39,Shelly,8,5,tanjung bira,alam,77.4
+1/7/2022 13:39,Shelly,9,5,masjid 99 kubah,religi,76.2
+1/7/2022 13:39,Shelly,10,5,benteng somba opu,prasejarah,68.6
+1/8/2022 20:51,Ahr,1,5,pantai losari,alam,72
+1/8/2022 20:51,Ahr,2,5,benteng rotterdam,prasejarah,68.2
+1/8/2022 20:51,Ahr,3,5,malino,alam,70.8
+1/8/2022 20:51,Ahr,4,5,taman nasional bantimurung,alam,73.4
+1/8/2022 20:51,Ahr,5,5,pantai galesong,alam,69
+1/8/2022 20:51,Ahr,6,5,wisata londa,budaya,71
+1/8/2022 20:51,Ahr,7,5,museum ne'gandeng,budaya,75
+1/8/2022 20:51,Ahr,8,5,tanjung bira,alam,77.4
+1/8/2022 20:51,Ahr,9,5,masjid 99 kubah,religi,76.2
+1/8/2022 20:51,Ahr,10,5,benteng somba opu,prasejarah,68.6
+1/8/2022 20:52,J,1,5,pantai losari,alam,72
+1/8/2022 20:52,J,2,5,benteng rotterdam,prasejarah,68.2
+1/8/2022 20:52,J,3,5,malino,alam,70.8
+1/8/2022 20:52,J,4,5,taman nasional bantimurung,alam,73.4
+1/8/2022 20:52,J,5,5,pantai galesong,alam,69
+1/8/2022 20:52,J,6,5,wisata londa,budaya,71
+1/8/2022 20:52,J,7,5,museum ne'gandeng,budaya,75
+1/8/2022 20:52,J,8,5,tanjung bira,alam,77.4
+1/8/2022 20:52,J,9,5,masjid 99 kubah,religi,76.2
+1/8/2022 20:52,J,10,5,benteng somba opu,prasejarah,68.6
+1/8/2022 20:52,Kd,1,5,pantai losari,alam,72
+1/8/2022 20:52,Kd,2,5,benteng rotterdam,prasejarah,68.2
+1/8/2022 20:52,Kd,3,5,malino,alam,70.8
+1/8/2022 20:52,Kd,4,5,taman nasional bantimurung,alam,73.4
+1/8/2022 20:52,Kd,5,5,pantai galesong,alam,69
+1/8/2022 20:52,Kd,6,5,wisata londa,budaya,71
+1/8/2022 20:52,Kd,7,5,museum ne'gandeng,budaya,75
+1/8/2022 20:52,Kd,8,5,tanjung bira,alam,77.4
+1/8/2022 20:52,Kd,9,5,masjid 99 kubah,religi,76.2
+1/8/2022 20:52,Kd,10,5,benteng somba opu,prasejarah,68.6
+1/8/2022 20:55,Sebut saja mawar :),1,5,pantai losari,alam,72
+1/8/2022 20:55,Sebut saja mawar :),2,5,benteng rotterdam,prasejarah,68.2
+1/8/2022 20:55,Sebut saja mawar :),3,5,malino,alam,70.8
+1/8/2022 20:55,Sebut saja mawar :),4,5,taman nasional bantimurung,alam,73.4
+1/8/2022 20:55,Sebut saja mawar :),5,5,pantai galesong,alam,69
+1/8/2022 20:55,Sebut saja mawar :),6,5,wisata londa,budaya,71
+1/8/2022 20:55,Sebut saja mawar :),7,5,museum ne'gandeng,budaya,75
+1/8/2022 20:55,Sebut saja mawar :),8,5,tanjung bira,alam,77.4
+1/8/2022 20:55,Sebut saja mawar :),9,5,masjid 99 kubah,religi,76.2
+1/8/2022 20:55,Sebut saja mawar :),10,5,benteng somba opu,prasejarah,68.6
+1/8/2022 20:56,Ana kurniawati,1,5,pantai losari,alam,72
+1/8/2022 20:56,Ana kurniawati,2,5,benteng rotterdam,prasejarah,68.2
+1/8/2022 20:56,Ana kurniawati,3,5,malino,alam,70.8
+1/8/2022 20:56,Ana kurniawati,4,5,taman nasional bantimurung,alam,73.4
+1/8/2022 20:56,Ana kurniawati,5,5,pantai galesong,alam,69
+1/8/2022 20:56,Ana kurniawati,6,5,wisata londa,budaya,71
+1/8/2022 20:56,Ana kurniawati,7,5,museum ne'gandeng,budaya,75
+1/8/2022 20:56,Ana kurniawati,8,5,tanjung bira,alam,77.4
+1/8/2022 20:56,Ana kurniawati,9,5,masjid 99 kubah,religi,76.2
+1/8/2022 20:56,Ana kurniawati,10,5,benteng somba opu,prasejarah,68.6
+1/8/2022 20:59,Wumi paraumaina,1,5,pantai losari,alam,72
+1/8/2022 20:59,Wumi paraumaina,2,5,benteng rotterdam,prasejarah,68.2
+1/8/2022 20:59,Wumi paraumaina,3,5,malino,alam,70.8
+1/8/2022 20:59,Wumi paraumaina,4,5,taman nasional bantimurung,alam,73.4
+1/8/2022 20:59,Wumi paraumaina,5,5,pantai galesong,alam,69
+1/8/2022 20:59,Wumi paraumaina,6,5,wisata londa,budaya,71
+1/8/2022 20:59,Wumi paraumaina,7,5,museum ne'gandeng,budaya,75
+1/8/2022 20:59,Wumi paraumaina,8,5,tanjung bira,alam,77.4
+1/8/2022 20:59,Wumi paraumaina,9,5,masjid 99 kubah,religi,76.2
+1/8/2022 20:59,Wumi paraumaina,10,5,benteng somba opu,prasejarah,68.6
+1/8/2022 21:02,Franster,1,5,pantai losari,alam,72
+1/8/2022 21:02,Franster,2,5,benteng rotterdam,prasejarah,68.2
+1/8/2022 21:02,Franster,3,5,malino,alam,70.8
+1/8/2022 21:02,Franster,4,5,taman nasional bantimurung,alam,73.4
+1/8/2022 21:02,Franster,5,5,pantai galesong,alam,69
+1/8/2022 21:02,Franster,6,5,wisata londa,budaya,71
+1/8/2022 21:02,Franster,7,5,museum ne'gandeng,budaya,75
+1/8/2022 21:02,Franster,8,5,tanjung bira,alam,77.4
+1/8/2022 21:02,Franster,9,5,masjid 99 kubah,religi,76.2
+1/8/2022 21:02,Franster,10,5,benteng somba opu,prasejarah,68.6
+1/8/2022 21:08,Kinaz,1,5,pantai losari,alam,72
+1/8/2022 21:08,Kinaz,2,5,benteng rotterdam,prasejarah,68.2
+1/8/2022 21:08,Kinaz,3,5,malino,alam,70.8
+1/8/2022 21:08,Kinaz,4,5,taman nasional bantimurung,alam,73.4
+1/8/2022 21:08,Kinaz,5,5,pantai galesong,alam,69
+1/8/2022 21:08,Kinaz,6,5,wisata londa,budaya,71
+1/8/2022 21:08,Kinaz,7,5,museum ne'gandeng,budaya,75
+1/8/2022 21:08,Kinaz,8,5,tanjung bira,alam,77.4
+1/8/2022 21:08,Kinaz,9,5,masjid 99 kubah,religi,76.2
+1/8/2022 21:08,Kinaz,10,5,benteng somba opu,prasejarah,68.6
+1/8/2022 21:08,..,1,5,pantai losari,alam,72
+1/8/2022 21:08,..,2,5,benteng rotterdam,prasejarah,68.2
+1/8/2022 21:08,..,3,5,malino,alam,70.8
+1/8/2022 21:08,..,4,5,taman nasional bantimurung,alam,73.4
+1/8/2022 21:08,..,5,5,pantai galesong,alam,69
+1/8/2022 21:08,..,6,5,wisata londa,budaya,71
+1/8/2022 21:08,..,7,5,museum ne'gandeng,budaya,75
+1/8/2022 21:08,..,8,5,tanjung bira,alam,77.4
+1/8/2022 21:08,..,9,5,masjid 99 kubah,religi,76.2
+1/8/2022 21:08,..,10,5,benteng somba opu,prasejarah,68.6
+1/8/2022 21:22,Ruby,1,5,pantai losari,alam,72
+1/8/2022 21:22,Ruby,2,5,benteng rotterdam,prasejarah,68.2
+1/8/2022 21:22,Ruby,3,5,malino,alam,70.8
+1/8/2022 21:22,Ruby,4,5,taman nasional bantimurung,alam,73.4
+1/8/2022 21:22,Ruby,5,5,pantai galesong,alam,69
+1/8/2022 21:22,Ruby,6,5,wisata londa,budaya,71
+1/8/2022 21:22,Ruby,7,5,museum ne'gandeng,budaya,75
+1/8/2022 21:22,Ruby,8,5,tanjung bira,alam,77.4
+1/8/2022 21:22,Ruby,9,5,masjid 99 kubah,religi,76.2
+1/8/2022 21:22,Ruby,10,5,benteng somba opu,prasejarah,68.6
+1/9/2022 9:41,Nadila,1,5,pantai losari,alam,72
+1/9/2022 9:41,Nadila,2,5,benteng rotterdam,prasejarah,68.2
+1/9/2022 9:41,Nadila,3,5,malino,alam,70.8
+1/9/2022 9:41,Nadila,4,5,taman nasional bantimurung,alam,73.4
+1/9/2022 9:41,Nadila,5,5,pantai galesong,alam,69
+1/9/2022 9:41,Nadila,6,5,wisata londa,budaya,71
+1/9/2022 9:41,Nadila,7,5,museum ne'gandeng,budaya,75
+1/9/2022 9:41,Nadila,8,5,tanjung bira,alam,77.4
+1/9/2022 9:41,Nadila,9,5,masjid 99 kubah,religi,76.2
+1/9/2022 9:41,Nadila,10,5,benteng somba opu,prasejarah,68.6
+1/11/2022 22:14,Jihan,1,5,pantai losari,alam,72
+1/11/2022 22:14,Jihan,2,5,benteng rotterdam,prasejarah,68.2
+1/11/2022 22:14,Jihan,3,5,malino,alam,70.8
+1/11/2022 22:14,Jihan,4,5,taman nasional bantimurung,alam,73.4
+1/11/2022 22:14,Jihan,5,5,pantai galesong,alam,69
+1/11/2022 22:14,Jihan,6,5,wisata londa,budaya,71
+1/11/2022 22:14,Jihan,7,5,museum ne'gandeng,budaya,75
+1/11/2022 22:14,Jihan,8,5,tanjung bira,alam,77.4
+1/11/2022 22:14,Jihan,9,5,masjid 99 kubah,religi,76.2
+1/11/2022 22:14,Jihan,10,5,benteng somba opu,prasejarah,68.6

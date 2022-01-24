@@ -1,0 +1,109 @@
+/*header*/
+
+#navigasi {
+    background-color: #f1f1f1;
+}
+
+.nav-item {
+    margin-left: 10px;
+    margin-right: 10px;
+    color: black;
+}
+
+.navbar-nav {
+    color: black;
+}
+
+header {
+    font-family: 'Bakbak One', cursive;
+}
+
+
+/*main*/
+
+.p {
+    color: white;
+    font-family: Calibri;
+}
+
+main {
+    background-color: #FFC727;
+    color: rgb(46, 42, 42);
+}
+
+#predict {
+    font-family: 'Calibri', cursive;
+    margin-top: 10px;
+}
+
+#predictsec {
+    font-family: 'Bakbak One', cursive;
+}
+
+#intro1,
+#intro2,
+#intro3,
+#predictsec,
+#resultClass,
+#resultRec,
+#about {
+    padding: 80px;
+}
+
+#resultTitl {
+    display: flex;
+    justify-content: center;
+}
+
+#teks {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#about {
+    font-family: 'Calibri';
+}
+
+#aboutImg {
+    display: flex;
+    justify-content: center;
+}
+
+#card {
+    margin-top: 25px;
+}
+
+
+/*footer*/
+
+footer {
+    font-family: 'Bakbak One', cursive;
+    background-color: #f1f1f1;
+}
+
+footer>div {
+    color: black;
+}
+
+
+/* Responsibilitas */
+
+@media screen and (max-width: 992px) {
+    #img2,
+    #img3,
+    #img6 {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    #img2,
+    #img3,
+    #img6 {
+        width: 200px;
+    }
+    #card {
+        padding-top: 25px;
+    }
+}
