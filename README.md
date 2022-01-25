@@ -1,1 +1,2 @@
-# Project Sistem Rekomendasi dengan Flask
+# Project Sistem Rekomendasi 
+Sistem Rekomendasi dengan menggunakan Flask 
